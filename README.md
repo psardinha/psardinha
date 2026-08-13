@@ -3,7 +3,7 @@ Hi there,
 Welcome to my GitHub profile! 
 I'm a software engineer working primarily on private projects related to location services, using technologies such as Java, Python, Node.js, Spring Boot, React, JavaScript, Apache Spark, Apache Kafka and Kafka Streams. 
 
-While most of this work is not publicly available, I also maintain a selection of public projects that explore related technologies and areas of interest, including
+While most of this work is not publicly available, I use my public projects to explore technologies, architectures and ideas that complement my professional work. Some of these projects include:
 - [agentic-travel-platform](https://github.com/psardinha/agentic-travel-platform) - a multi-agent travel assistant system combining RAG, tool use, and distributed agent orchestration via MCP and A2A protocols.
 - [interactive-story-api
 ](https://github.com/psardinha/interactive-story-api) - a REST API for interactive storybooks built with Java 17 and Spring Boot 3.5, featuring branching narratives, gameplay mechanics, user progress tracking, validation and OpenAPI documentation.
