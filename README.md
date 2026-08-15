@@ -11,6 +11,8 @@ While most of this work is not publicly available, I use my public projects to e
 ](https://github.com/psardinha/distributed-kafka-streams-exams) – A distributed event-driven application built with Spring Boot, Apache Kafka Streams, Apache Avro and the Confluent Schema Registry, demonstrating stateful stream processing, materialized views, Interactive Queries and distributed request routing.
 - [real-time-exam-analytics](https://github.com/psardinha/real-time-exam-analytics) — A real-time data engineering pipeline using Apache Kafka, Avro, Spark Structured Streaming and Delta Lake, demonstrating event-time windowing, stateful processing with `transformWithStateInPandas`, RocksDB state management and incremental Delta Lake upserts.
 - [pyspark-customer-order-analytics](https://github.com/psardinha/pyspark-customer-order-analytics) — An end-to-end PySpark data engineering and analytics pipeline covering data quality, DataFrame transformations, Spark SQL, window functions, execution plans, optimization, Parquet and Spark ML.
+- [full-stack-observability](https://github.com/psardinha/full-stack-observability) - A full-stack observability application built with Angular and Quarkus, demonstrating distributed tracing, metrics and logs with OpenTelemetry and the Grafana observability stack, including W3C trace-context propagation and browser telemetry proxying.
+
 
 If you'd like to discuss software engineering, Kafka, AI or potential collaboration opportunities, feel free to get in touch.
 
