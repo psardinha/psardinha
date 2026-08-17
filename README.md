@@ -2,7 +2,7 @@ Hi there,
 
 Welcome to my GitHub profile! I'm a software engineer working primarily on private projects in the location-services domain, using technologies such as Java, Spring Boot, Node.js and React.
 
-While much of my professional work is private, I use my public projects to explore technologies, architectures and ideas that complement my professional work. These projects extend beyond my primary domain and cover areas including distributed systems, event-driven architectures, data science, data engineering, AI and observability, using technologies such as Python, Apache Spark, Apache Kafka, Kafka Streams, LangChain, LangGraph and MCP.
+While much of my professional work is private, I use my public projects to explore technologies, architectures and ideas that complement my professional work. These projects extend beyond my primary domain and cover areas including distributed systems, event-driven architectures, data science, data engineering, AI and observability, using technologies such as Python, Apache Spark, Apache Kafka, Kafka Streams, LangChain, LangGraph, MCP, Docker and Kubernetes.
 
 Some of these projects include:
 
@@ -12,6 +12,7 @@ Some of these projects include:
 - [real-time-exam-analytics](https://github.com/psardinha/real-time-exam-analytics) - A real-time data engineering pipeline using Apache Kafka, Avro, Spark Structured Streaming and Delta Lake, demonstrating event-time windowing, stateful processing with `transformWithStateInPandas`, RocksDB state management and incremental Delta Lake upserts.
 - [pyspark-customer-order-analytics](https://github.com/psardinha/pyspark-customer-order-analytics) - An end-to-end PySpark data engineering and analytics pipeline covering data quality, DataFrame transformations, Spark SQL, window functions, execution plans, optimization, Parquet and Spark ML.
 - [full-stack-observability](https://github.com/psardinha/full-stack-observability) - A full-stack observability application built with Angular and Quarkus, demonstrating distributed tracing, metrics and logs with OpenTelemetry and the Grafana observability stack, including W3C trace-context propagation and browser telemetry proxying.
+- [cloud-native-delivery-platform](https://github.com/psardinha/Cloud-native-delivery-platform) - A cloud-native delivery platform being developed to automate the build, security, deployment and observability of Spring Boot applications on Kubernetes using GitHub Actions, Docker, Helm and OpenTelemetry.
 
 If you'd like to discuss software engineering, Kafka, AI or potential collaboration opportunities, feel free to get in touch.
 
