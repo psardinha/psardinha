@@ -1,10 +1,12 @@
-Hi there,
+# Paulo Sardinha
 
-Welcome to my GitHub profile! I'm a software engineer working primarily on private projects in the location-services domain, using technologies such as Java, Spring Boot, Node.js and React.
+I'm a software engineer working primarily on private projects in the location-services domain, using technologies such as Java, Spring Boot, Node.js and React.
 
-While much of my professional work is private, I use my public projects to explore technologies, architectures and ideas that complement my professional work. These projects extend beyond my primary domain and cover areas including distributed systems, event-driven architectures, data science, data engineering, AI and observability, using technologies such as Python, Apache Spark, Apache Kafka, Kafka Streams, LangChain, LangGraph, MCP, Docker and Kubernetes.
+While much of my professional work is private, I use my public projects to explore **software architectures, distributed systems, data platforms, AI and cloud-native engineering** that complement my professional work.
 
-Some of these projects include:
+My public projects cover areas including **event-driven architectures, real-time data engineering, data science, AI and agentic systems, observability, and Kubernetes**, using technologies such as **Python, Apache Spark, Apache Kafka, Kafka Streams, LangChain, LangGraph, MCP, Docker and Kubernetes**.
+
+## Selected projects
 
 - [agentic-travel-platform](https://github.com/psardinha/agentic-travel-platform) - A multi-agent travel assistant system combining RAG, tool use, and distributed agent orchestration via MCP and A2A protocols.
 - [interactive-story-api](https://github.com/psardinha/interactive-story-api) - A REST API for interactive storybooks built with Java 17 and Spring Boot 3.5, featuring branching narratives, gameplay mechanics, user progress tracking, validation and OpenAPI documentation.
@@ -14,7 +16,11 @@ Some of these projects include:
 - [full-stack-observability](https://github.com/psardinha/full-stack-observability) - A full-stack observability application built with Angular and Quarkus, demonstrating distributed tracing, metrics and logs with OpenTelemetry and the Grafana observability stack, including W3C trace-context propagation and browser telemetry proxying.
 - [cloud-native-delivery-platform](https://github.com/psardinha/Cloud-native-delivery-platform) - A cloud-native CI/CD platform for building, securing and deploying applications to Kubernetes using GitHub Actions, Docker and Helm.
 
-If you'd like to discuss software engineering, Kafka, AI or potential collaboration opportunities, feel free to get in touch.
+## Areas of interest
+
+**Backend Engineering · Distributed Systems · Event-Driven Architecture · Data Engineering & Data Science · AI & Agentic Systems · Observability · Cloud-Native Engineering**
+
+If you'd like to discuss software engineering, distributed systems, Kafka, data engineering or AI, feel free to get in touch.
 
 ✉ Email: pasardinha@sapo.pt
 
