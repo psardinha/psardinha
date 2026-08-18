@@ -12,7 +12,7 @@ Some of these projects include:
 - [real-time-exam-analytics](https://github.com/psardinha/real-time-exam-analytics) - A real-time data engineering pipeline using Apache Kafka, Avro, Spark Structured Streaming and Delta Lake, demonstrating event-time windowing, stateful processing with `transformWithStateInPandas`, RocksDB state management and incremental Delta Lake upserts.
 - [pyspark-customer-order-analytics](https://github.com/psardinha/pyspark-customer-order-analytics) - An end-to-end PySpark data engineering and analytics pipeline covering data quality, DataFrame transformations, Spark SQL, window functions, execution plans, optimization, Parquet and Spark ML.
 - [full-stack-observability](https://github.com/psardinha/full-stack-observability) - A full-stack observability application built with Angular and Quarkus, demonstrating distributed tracing, metrics and logs with OpenTelemetry and the Grafana observability stack, including W3C trace-context propagation and browser telemetry proxying.
-- [cloud-native-delivery-platform](https://github.com/psardinha/Cloud-native-delivery-platform) - A cloud-native delivery platform being developed to automate the build, security, deployment and observability of Spring Boot applications on Kubernetes using GitHub Actions, Docker, Helm and OpenTelemetry.
+- [cloud-native-delivery-platform](https://github.com/psardinha/Cloud-native-delivery-platform) - A cloud-native CI/CD platform for building, securing and deploying applications to Kubernetes using GitHub Actions, Docker and Helm.
 
 If you'd like to discuss software engineering, Kafka, AI or potential collaboration opportunities, feel free to get in touch.
 
