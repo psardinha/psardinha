@@ -8,6 +8,7 @@ My public projects cover areas including **event-driven architectures, real-time
 
 ## Selected projects
 
+- [opentelemetry-a2a-incident-investigation](https://github.com/psardinha/opentelemetry-a2a-incident-investigation) - An evidence-based incident investigation system using A2A agents, OpenTelemetry, Prometheus, Loki, Tempo, Grafana LGTM and local LLM reasoning.
 - [agentic-travel-platform](https://github.com/psardinha/agentic-travel-platform) - A multi-agent travel assistant system combining RAG, tool use, and distributed agent orchestration via MCP and A2A protocols.
 - [interactive-story-api](https://github.com/psardinha/interactive-story-api) - A REST API for interactive storybooks built with Java 17 and Spring Boot 3.5, featuring branching narratives, gameplay mechanics, user progress tracking, validation and OpenAPI documentation.
 - [distributed-kafka-streams-exams](https://github.com/psardinha/distributed-kafka-streams-exams) - A distributed event-driven application built with Spring Boot, Apache Kafka Streams, Apache Avro and the Confluent Schema Registry, demonstrating stateful stream processing, materialized views, Interactive Queries and distributed request routing.
