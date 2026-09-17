@@ -1,10 +1,10 @@
 # Paulo Sardinha
 
-I'm a software engineer working primarily on private projects in the location-services domain, using technologies such as Java, Spring Boot, Node.js and React.
+I'm a software engineer focused on backend systems, distributed architectures, data platforms and AI systems, with professional experience primarily in the location-services domain.
 
-While much of my professional work is private, I use my public projects to explore **software architecture, distributed systems, data platforms, AI and cloud-native engineering** that complement my professional work.
+While much of my professional work is private, I use my public projects to explore **production-oriented engineering problems**: how distributed systems behave, how data moves through them, how AI systems can be observed and evaluated, and how these systems can be operated reliably.
 
-My public projects focus on production-oriented engineering problems: how distributed systems behave, how data moves through them, how AI systems can be observed and evaluated and how these systems can be operated reliably. They cover areas including **event-driven architectures, real-time data engineering, data science, AI and agentic systems, observability, and Kubernetes**, using technologies such as **Python, Apache Spark, Apache Kafka, Kafka Streams, LangChain, LangGraph, MCP, Docker and Kubernetes**.
+My projects span **event-driven architectures, real-time data engineering, data science, AI and agentic systems, observability, and Kubernetes**, using technologies such as **Java, Python, Apache Kafka, Apache Spark, Kafka Streams, LangChain, LangGraph, MCP, Docker and Kubernetes**.
 
 ## Selected projects
 
