@@ -4,7 +4,7 @@ I'm a software engineer focused on backend systems, distributed architectures, d
 
 While much of my professional work is private, I use my public projects to explore **production-oriented engineering problems**: how distributed systems behave, how data moves through them, how AI systems can be observed and evaluated, and how these systems can be operated reliably.
 
-My projects span **event-driven architectures, real-time data engineering, data science, AI and agentic systems, observability, and Kubernetes**, using technologies such as **Java, Python, Apache Kafka, Apache Spark, Kafka Streams, LangChain, LangGraph, MCP, Docker and Kubernetes**.
+My projects span **event-driven architectures, real-time data engineering, data science, MLOps, AI and agentic systems, observability and cloud-native engineering**, using technologies such as **Java, Python, Apache Kafka, Apache Spark, Kafka Streams, AWS SAgemaker, LangChain, LangGraph, MCP, Docker and Kubernetes**.
 
 ## Selected projects
 
@@ -19,6 +19,10 @@ My projects span **event-driven architectures, real-time data engineering, data 
 - [distributed-kafka-streams-exams](https://github.com/psardinha/distributed-kafka-streams-exams) - A distributed event-driven application built with Spring Boot, Apache Kafka Streams, Apache Avro and the Confluent Schema Registry, demonstrating stateful stream processing, materialized views, Interactive Queries and distributed request routing.
 - [real-time-exam-analytics](https://github.com/psardinha/real-time-exam-analytics) - A real-time data engineering pipeline using Apache Kafka, Avro, Spark Structured Streaming and Delta Lake, demonstrating event-time windowing, stateful processing with `transformWithStateInPandas`, RocksDB state management and incremental Delta Lake upserts.
 - [pyspark-customer-order-analytics](https://github.com/psardinha/pyspark-customer-order-analytics) - An end-to-end PySpark data engineering and analytics pipeline covering data quality, DataFrame transformations, Spark SQL, window functions, execution plans, optimization, Parquet and Spark ML.
+
+### MLOps & ML Engineering
+
+- [process-optimization-via-ml](https://github.com/psardinha/process-optimization) - An end-to-end MLOps platform using AWS SageMaker, Terraform and GitHub Actions to build reproducible ML pipelines, with experiment tracking, model versioning, automated deployment and monitoring.
 
 ### Cloud-Native & Observability
 
