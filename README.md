@@ -36,7 +36,7 @@ My projects span **event-driven architectures, real-time data engineering, data 
 
 ## Areas of interest
 
-**Backend Engineering · Distributed Systems · Event-Driven Architecture · Data Engineering & Data Science · AI & Agentic Systems · Observability · Cloud-Native Engineering**
+**Backend Engineering · Distributed Systems · Event-Driven Architecture · Data Engineering & Data Science · Machine Learning · AI & Agentic Systems · Observability · Cloud-Native Engineering**
 
 If you'd like to discuss software engineering, distributed systems, Kafka, data engineering or AI, feel free to get in touch.
 
