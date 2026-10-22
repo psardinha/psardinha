@@ -4,7 +4,7 @@ I'm a software engineer focused on backend systems, distributed architectures, d
 
 While much of my professional work is private, I use my public projects to explore **production-oriented engineering problems**: how distributed systems behave, how data moves through them, how AI systems can be observed and evaluated, and how these systems can be operated reliably.
 
-My projects span **event-driven architectures, real-time data engineering, data science, MLOps, AI and agentic systems, observability and cloud-native engineering**, using technologies such as **Java, Python, Apache Kafka, Apache Spark, Kafka Streams, AWS SAgemaker, LangChain, LangGraph, MCP, Docker and Kubernetes**.
+My projects span **event-driven architectures, real-time data engineering, data science, MLOps, AI and agentic systems, observability and cloud-native engineering**, using technologies such as **Java, Python, Apache Kafka, Apache Spark, Kafka Streams, AWS Sagemaker, LangChain, LangGraph, MCP, Docker and Kubernetes**.
 
 ## Selected projects
 
@@ -13,6 +13,7 @@ My projects span **event-driven architectures, real-time data engineering, data 
 - [opentelemetry-a2a-incident-investigation](https://github.com/psardinha/opentelemetry-a2a-incident-investigation) - An evidence-based incident investigation system with A2A agent coordination, OpenTelemetry, Prometheus, Loki, Tempo, Grafana LGTM and local LLM reasoning.
 - [agentic-travel-platform](https://github.com/psardinha/agentic-travel-platform) - A multi-agent travel assistant system combining RAG, tool use, and distributed agent orchestration via MCP and A2A protocols.
 - [AI-Interview-Lab](https://github.com/psardinha/AI-Interview-Lab) - An explainable AI assessment platform for technical interviews, with rubric-based evaluation, deterministic scoring and evaluator benchmarking.
+- [llm-as-judge](https://github.com/psardinha/llm-as-judge) - An LLM evaluation and observability pipeline using Arize Phoenix, Ollama and OpenTelemetry, featuring dataset-based experiments, LLM-as-a-Judge and continuous evaluation of LLM outputs in near real time.
 
 ### Distributed Systems & Data Engineering
 
@@ -36,7 +37,7 @@ My projects span **event-driven architectures, real-time data engineering, data 
 
 ## Areas of interest
 
-**Backend Engineering · Distributed Systems · Event-Driven Architecture · Data Engineering & Data Science · Machine Learning · AI & Agentic Systems · Observability · Cloud-Native Engineering**
+**Backend Engineering · Distributed Systems · Event-Driven Architecture · Data Engineering & Data Science · Machine Learning · AI & Agentic Systems · LLM Evaluation · Observability · Cloud-Native Engineering**
 
 If you'd like to discuss software engineering, distributed systems, Kafka, data engineering or AI, feel free to get in touch.
 
