@@ -17,6 +17,7 @@ My projects span **event-driven architectures, real-time data engineering, data 
 
 ### Distributed Systems & Data Engineering
 
+- [machinepulse-streaming-analytics](https://github.com/psardinha/machinepulse-streaming-analytics) - A real-time industrial IoT analytics pipeline using AWS Managed Service for Apache Flink, Kinesis Data Streams and S3 Parquet, featuring streaming deduplication, anomaly detection, device KPI aggregation, data quality monitoring and Terraform-managed infrastructure.
 - [distributed-kafka-streams-exams](https://github.com/psardinha/distributed-kafka-streams-exams) - A distributed event-driven application built with Spring Boot, Apache Kafka Streams, Apache Avro and the Confluent Schema Registry, demonstrating stateful stream processing, materialized views, Interactive Queries and distributed request routing.
 - [real-time-exam-analytics](https://github.com/psardinha/real-time-exam-analytics) - A real-time data engineering pipeline using Apache Kafka, Avro, Spark Structured Streaming and Delta Lake, demonstrating event-time windowing, stateful processing with `transformWithStateInPandas`, RocksDB state management and incremental Delta Lake upserts.
 - [pyspark-customer-order-analytics](https://github.com/psardinha/pyspark-customer-order-analytics) - An end-to-end PySpark data engineering and analytics pipeline covering data quality, DataFrame transformations, Spark SQL, window functions, execution plans, optimization, Parquet and Spark ML.
@@ -27,7 +28,7 @@ My projects span **event-driven architectures, real-time data engineering, data 
 
 ### Cloud-Native & Observability
 
-- [full-stack-observability](https://github.com/psardinha/full-stack-observability) - A full-stack observability application built with Angular and Quarkus, demonstrating distributed tracing, metrics and logs with OpenTelemetry and the Grafana observability stack, including W3C trace-context propagation and browser telemetry proxying.
+- [full-stack-observability](https://github.com/psardinha/full-stack-observability) - A real-time industrial IoT analytics pipeline using Amazon Managed Service for Apache Flink, Amazon Kinesis Data Streams and Amazon S3 Parquet, featuring streaming deduplication, anomaly detection, device KPI aggregation, data quality monitoring and Terraform-managed infrastructure.
 - [workload-aware-kubernetes-autoscaling](https://github.com/psardinha/customer-location-platform) - An event-driven Kubernetes platform demonstrating workload-aware autoscaling, where business-weighted customer processing delay drives scaling decisions through a custom Kubernetes controller.
 - [cloud-native-delivery-platform](https://github.com/psardinha/Cloud-native-delivery-platform) - A cloud-native CI/CD platform for building, securing and deploying applications to Kubernetes using GitHub Actions, Docker and Helm.
 
