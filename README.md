@@ -4,7 +4,7 @@ I'm a software engineer focused on backend systems, distributed architectures, d
 
 While much of my professional work is private, I use my public projects to explore **production-oriented engineering problems**: how distributed systems behave, how data moves through them, how AI systems can be observed and evaluated, and how these systems can be operated reliably.
 
-My projects span **event-driven architectures, real-time data engineering, data science, MLOps, AI and agentic systems, observability and cloud-native engineering**, using technologies such as **Java, Python, Apache Kafka, Apache Spark, Kafka Streams, AWS SageMaker, LangChain, LangGraph, MCP, Docker and Kubernetes**.
+My projects span **event-driven architectures, real-time data engineering, data science, MLOps, AI and agentic systems, observability and cloud-native engineering**, using technologies such as **Java, Python, Apache Kafka, Apache Spark, Kafka Streams, AWS SageMaker, LangChain, LangGraph, MCP, Docker and Kubernetes, SQL DB, Mongo DB**.
 
 ## Selected projects
 
@@ -30,7 +30,7 @@ My projects span **event-driven architectures, real-time data engineering, data 
 ### Cloud-Native & Observability
 
 - [full-stack-observability](https://github.com/psardinha/full-stack-observability) - A real-time industrial IoT analytics pipeline using Amazon Managed Service for Apache Flink, Amazon Kinesis Data Streams and Amazon S3 Parquet, featuring streaming deduplication, anomaly detection, device KPI aggregation, data quality monitoring and Terraform-managed infrastructure.
-- [workload-aware-kubernetes-autoscaling](https://github.com/psardinha/customer-location-platform) - An event-driven Kubernetes platform demonstrating workload-aware autoscaling, where business-weighted customer processing delay drives scaling decisions through a custom Kubernetes controller.
+- [workload-aware-kubernetes-autoscaling](https://github.com/psardinha/customer-location-platform) - A Kubernetes-based, event-driven customer-location platform built with Java, Spring Boot, Kafka, MongoDB and Helm. Features a custom Kubernetes autoscaling controller that uses business-weighted processing delay, Prometheus metrics and Grafana observability to dynamically scale Kafka consumers.
 - [cloud-native-delivery-platform](https://github.com/psardinha/Cloud-native-delivery-platform) - A cloud-native CI/CD platform for building, securing and deploying applications to Kubernetes using GitHub Actions, Docker and Helm.
 
 ### Other
